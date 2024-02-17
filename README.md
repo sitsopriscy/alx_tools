@@ -306,6 +306,10 @@ https://intranet.alxswe.com/rltoken/YW3GbxgexH4ckfEpMX-kvg
 https://intranet.alxswe.com/rltoken/vBpBmBUFw3mFvfHnOrkgLw
 
 
-
-
+HTML Forms
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
+https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls
+https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls
 

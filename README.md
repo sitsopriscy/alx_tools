@@ -256,56 +256,94 @@ https://intranet.alxswe.com/rltoken/QNrrNbDUZZzb6h7tFR_l4g
 
 
 JavaScript - Warm up
+
 [JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
 [Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+
 [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+
 [Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+
 [Control flow and error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+
 [Functions — reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+
 ([Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects))
+
 [NODE.JS MODULE PATTERNS USING SIMPLE EXAMPLES](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+
 [var, let and const - What, why and how - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+
 [Javascript Tutorial - Programming Tutorial for Beginners Pt 1](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+
 [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 JavaScript - Objects, Scopes and Closures
+
 [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+
 [Classes in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+
 [Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+
 [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+
 [extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
+
 [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+
 [Classes in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+
 [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
 [Getting Out of Binding Situations in JavaScript](https://alistapart.com/article/getoutbindingsituations/)
+
 [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 JavaScript - Network
+
 [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
 [Request](https://github.com/request/request)
+
 [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 Javascript advanced
+
 [Variable scope, closure](https://javascript.info/closure)
+
 [JavaScript Closures](https://www.w3schools.com/js/js_function_closures.asp)
+
 [Call stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+
 [Function binding](https://javascript.info/bind)
+
 [Introduction: callbacks](https://javascript.info/callbacks)
 
 
 JS HTML DOM manipulation
+
 [Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+
 [JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 
-Cookies & local storage
+
+Cookies & local storage 
+
 [JavaScript Cookies](https://www.w3schools.com/js/js_cookies.asp)
+
 [Using HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+
 [js-cookie](https://github.com/js-cookie/js-cookie)
+
 [HTML Web Storage API](https://www.w3schools.com/html/html5_webstorage.asp)
 
+
 HTML Forms
+
 [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 

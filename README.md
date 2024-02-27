@@ -239,6 +239,9 @@ https://intranet.alxswe.com/rltoken/CHewJVpyl6ITrTB-RIglFQ
 
 
 Python - Web framework - 1 & Python - Web framework - 2
+[]()
+[]()
+[]()
 https://intranet.alxswe.com/rltoken/48kw8zNaCe9i3bSD0hbuQQ
 https://intranet.alxswe.com/rltoken/0YWR7W5-HJEbK3YSe1U2GQ
 https://intranet.alxswe.com/rltoken/Yi4vZ_LeZPEGVhaZllVBqA
@@ -253,63 +256,56 @@ https://intranet.alxswe.com/rltoken/QNrrNbDUZZzb6h7tFR_l4g
 
 
 JavaScript - Warm up
-https://intranet.alxswe.com/rltoken/APZmtL9w79192Tb5rnlZdw
-https://intranet.alxswe.com/rltoken/uS2wx3lepQNsZv9s8QiIHw
-https://intranet.alxswe.com/rltoken/-A8NrRXtbEQxgnsn5RcCdA
-https://intranet.alxswe.com/rltoken/APZmtL9w79192Tb5rnlZdw
-https://intranet.alxswe.com/rltoken/x-s3s429IZq24OcvBsmB-Q
-https://intranet.alxswe.com/rltoken/RNqXLZl7X89l8j9ahmZpvQ
-https://intranet.alxswe.com/rltoken/NfmE5LmeO3KJvSS9WgzFWw
-https://intranet.alxswe.com/rltoken/tii5tBRqPGmZSLdIYPphGQ
-https://intranet.alxswe.com/rltoken/BO7eZ67y8m5IN73fOOBZUg
-https://intranet.alxswe.com/rltoken/Hv8cxS35QWiJUcBJKMA76g
-https://intranet.alxswe.com/rltoken/R2STzQtaj4RWSsadh4cYeA
-https://intranet.alxswe.com/rltoken/AM2vFBysBJNU37w8N1zZog
+[JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+[Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+[JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+[Operator precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+[Control flow and error handling](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
+[Functions — reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+([Introducing JavaScript objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects))
+[NODE.JS MODULE PATTERNS USING SIMPLE EXAMPLES](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+[var, let and const - What, why and how - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+[Javascript Tutorial - Programming Tutorial for Beginners Pt 1](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+[modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 JavaScript - Objects, Scopes and Closures
-https://intranet.alxswe.com/rltoken/GLuVTw6uPEtJoE48v6hh6Q
-https://intranet.alxswe.com/rltoken/yJvx-KSQmjeLGL_zt2zSRg
-https://intranet.alxswe.com/rltoken/uQ0wKfDktBpsS52MD_V7Fg
-https://intranet.alxswe.com/rltoken/or2hUFeNS5YYJRbL_7a9Vw
-https://intranet.alxswe.com/rltoken/DCDrR-o8mV3gaoaxQawYLg
-https://intranet.alxswe.com/rltoken/tv0EI26HJflBpYlTYpZswQ
-https://intranet.alxswe.com/rltoken/yJvx-KSQmjeLGL_zt2zSRg
-https://intranet.alxswe.com/rltoken/VUQSL4MeY58nNfFL6yPA_g
-https://intranet.alxswe.com/rltoken/uduR9j8AJ4jUrKYiucKGlg
-https://intranet.alxswe.com/rltoken/LdHi8ovDOIBTHdTBRhVCww
+[JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+[Classes in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+[Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+[super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+[extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
+[Object prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+[Classes in JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript)
+[Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+[Getting Out of Binding Situations in JavaScript](https://alistapart.com/article/getoutbindingsituations/)
+[modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 JavaScript - Network
-https://intranet.alxswe.com/rltoken/h4h5llG00QmkpxQFAvE2CQ
-https://intranet.alxswe.com/rltoken/jqBd211x4P1gSNCAKjvEJQ
-https://intranet.alxswe.com/rltoken/U9HcUbrCS5hDxBCL5BjeRw
+[Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+[Request](https://github.com/request/request)
+[modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 
 Javascript advanced
-https://intranet.alxswe.com/rltoken/gtNKxnTsTcqTHxSO7IxG1A
-https://intranet.alxswe.com/rltoken/nkUIwlOmos3Dp5H48xB8NA
-https://intranet.alxswe.com/rltoken/m4N2NfiZaD3DuHT16DXndg
-https://intranet.alxswe.com/rltoken/e4qDWCEOZPHUGqYizpR0oA
-https://intranet.alxswe.com/rltoken/0FyfBzMjE_PwuHplDFD36A
+[Variable scope, closure](https://javascript.info/closure)
+[JavaScript Closures](https://www.w3schools.com/js/js_function_closures.asp)
+[Call stack](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+[Function binding](https://javascript.info/bind)
+[Introduction: callbacks](https://javascript.info/callbacks)
 
 
 JS HTML DOM manipulation
-https://intranet.alxswe.com/rltoken/vQxjnoIyOVYwL4ry7FPlsg
-https://intranet.alxswe.com/rltoken/7lh3o0BnqGypNVbJWXRT4Q
-
+[Manipulating documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)
+[JavaScript HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
 
 Cookies & local storage
-https://intranet.alxswe.com/rltoken/Dc01KHSVOsco-ox4L20A9A
-https://intranet.alxswe.com/rltoken/kzI71T3JgeL87DYlFzS5Gg
-https://intranet.alxswe.com/rltoken/YW3GbxgexH4ckfEpMX-kvg
-https://intranet.alxswe.com/rltoken/vBpBmBUFw3mFvfHnOrkgLw
-
+[JavaScript Cookies](https://www.w3schools.com/js/js_cookies.asp)
+[Using HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+[js-cookie](https://github.com/js-cookie/js-cookie)
+[HTML Web Storage API](https://www.w3schools.com/html/html5_webstorage.asp)
 
 HTML Forms
-https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
-https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form
-https://developer.mozilla.org/en-US/docs/Learn/Forms/Basic_native_form_controls
-https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types
-https://developer.mozilla.org/en-US/docs/Learn/Forms/Other_form_controls
+[Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 
